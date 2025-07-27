@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="64" height="64">
+  <!-- Tomato body -->
+  <circle cx="64" cy="72" r="48" fill="#e53935"></circle>
+
+  <!-- Tomato highlight -->
+  <circle cx="50" cy="58" r="10" fill="#ffffff" opacity="0.3"></circle>
+
+  <!-- Tomato leaf crown -->
+  <path d="M64 24
+       c-4-12-20-18-20-18s4 6 2 12c-6-2-14 4-14 4s7 2 12 7c-5 2-12 7-12 7s10 1 18-2c2 4 6 6 14 6s12-2 14-6c8 3 18 2 18 2s-7-5-12-7c5-5 12-7 12-7s-8-6-14-4c-2-6 2-12 2-12s-16 6-20 18z" fill="#43a047"></path>
+</svg>
